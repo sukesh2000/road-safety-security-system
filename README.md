@@ -1,4 +1,4 @@
-# smart-road-safety-security-systems
+# road-safety-security-systems
 
 ### This project consists of two modules:
 
